@@ -4,7 +4,6 @@
     "scheme": "acme",
     "userInterfaceStyle": "light",
     "android": {
-      "edgeToEdgeEnabled": true,
       "predictiveBackGestureEnabled": false
     },
     "web": {
